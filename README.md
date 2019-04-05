@@ -1,5 +1,5 @@
 # BME547 final project: Jelly, Kendall, Song
-Build Status: [![Build Status](https://travis-ci.com/JellyEvan/547final_jks.svg?branch=master)](https://travis-ci.com/JellyEvan/547final_jks)
+[![Build Status](https://travis-ci.com/JellyEvan/547final_jks.svg?branch=master)](https://travis-ci.com/JellyEvan/547final_jks)  
 [Click Here for Assignment Instructions](https://github.com/dward2/BME547/blob/master/Assignments/final_image_processor.md)
 
 **File names:**   
