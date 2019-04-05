@@ -1,0 +1,11 @@
+pycodestyle
+pytest
+pytest-pep8
+numpy
+matplotlib
+pandas
+scipy
+flask
+requests
+sendgrid==5.6.0
+sphinx
