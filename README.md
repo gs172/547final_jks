@@ -1,14 +1,14 @@
 # BME547 final project: Jelly, Kendall, Song
-
+Build Status: [![Build Status](https://travis-ci.com/JellyEvan/547final_jks.svg?branch=master)](https://travis-ci.com/JellyEvan/547final_jks)
 [Click Here for Assignment Instructions](https://github.com/dward2/BME547/blob/master/Assignments/final_image_processor.md)
 
 **File names:**   
 **Server Location:** `vcm-9103.vm.duke.edu`  
 **Test files:**   
 **Authors:** Evan Jelly, Wesley Kendall, Ge Song  
-**Assignment:**  Image Processor Final Project
-**Course:** BME547 - Spring 2019
-**Instructors** Dr. David Ward, Dr. Adam Wax
+**Assignment:**  Image Processor Final Project  
+**Course:** BME547 - Spring 2019  
+**Instructors** Dr. David Ward, Dr. Adam Wax  
 **Due Date:** 04/26/2019 23:59  
 
 
