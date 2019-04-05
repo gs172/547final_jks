@@ -4,7 +4,7 @@ Authors: Evan Jelly, Wesley Kendall, Ge Song
 Assignment:  Image Processor Final Project
 Due Date: 04/26/2019 23:59
 
-Funtion: This file is for unit testing for python modules in this repository.
+Function: This file is for unit testing for python modules in this repository.
 """
 
 import pytest
